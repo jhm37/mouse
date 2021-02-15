@@ -1,0 +1,1 @@
+print('My name is Mouse and I\'m a dog')
